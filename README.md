@@ -1,6 +1,9 @@
 # Lodestone biomagnet tools
  Practical biomagnet stimulators for science, development and entertainment
  
+ Parts list and instructions in the Wiki:
+ https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki
+ 
  
  Early development thread: 
  https://forum.dangerousthings.com/t/finger-magnet-fun-for-everyone/18642
