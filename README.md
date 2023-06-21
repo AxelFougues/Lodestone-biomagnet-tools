@@ -2,7 +2,7 @@
 ![Logo](https://github.com/AxelFougues/Lodestone-biomagnet-tools/blob/main/Logo/LodestoneWithName.png?raw=true)
 
 
-## 🔬Background
+# 🔬Background
 Biomagnets are tiny magnetic implants that lay right under the skin. They can be stimulated by external magnetic fields. For now they are used to detect existing sources like high electric current, permanent magnets and electronic circuits. But what if we produced the field on purpose and used this sixth sense more?
 
 Lodestones do exactly that! They are designed with practicality, accessibility and expandability in mind. The goal is to promote and discover new and exciting uses for biomagnets by making the tools as simple and accessible as possible.
