@@ -7,7 +7,7 @@ Biomagnets are tiny magnetic implants that lay right under the skin. They can be
 
 Lodestones do exactly that! They are designed with practicality, accessibility and expandability in mind. The goal is to promote and discover new and exciting uses for biomagnets by making the tools as simple and accessible as possible.
 
-# ⚪[Lodestone PICO](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/PICO-DIY-instructions)
+# 🔧[Lodestone PICO](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/PICO-DIY-instructions)
  The PICO has the form factor of a USB-C stick. It is plug n' play on mobile and PC. It's not very powerful but makes up for it by being completely passive (no need to charge) and very practical for every day use! Simple is better!
 
 
