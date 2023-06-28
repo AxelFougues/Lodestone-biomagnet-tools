@@ -12,6 +12,8 @@ Lodestones do exactly that! They are designed with practicality, accessibility a
  
  [Specs and DIY](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-PICO)
 
+ [Get your Lodestone PICO on my Patreon](https://www.patreon.com/AxelFougues)
+
 # 🌐Links
 
  The Lodestones were designed to be used in tandem with my upcoming cyborg-multitool app. It will provide advanced and experimental features to accompany the loadstones such as games, automated tests and more: [Android NFC cyborg multitool development](https://forum.dangerousthings.com/t/android-nfc-cyborg-multitool-development/17772)
