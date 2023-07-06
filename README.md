@@ -1,6 +1,10 @@
 
 ![Logo](https://github.com/AxelFougues/Lodestone-biomagnet-tools/blob/main/Logo/LodestoneWithName.png?raw=true)
 
+### 🙏[Buy a LODESTONE](https://www.patreon.com/AxelFougues)
+### 🔧[Specs and DIY](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki)
+### 📲[Get ZINC the official app](https://play.google.com/store/apps/details?id=com.AzApps.ZINC)
+
 
 # 🔍Background
 Biomagnets are tiny magnetic implants that lay right under the skin. They can be stimulated by external magnetic fields. For now they are used to detect existing sources like high electric current, permanent magnets and electronic circuits. But what if we produced the field on purpose and used this sixth sense more?
