@@ -17,7 +17,7 @@ Lodestones do exactly that! They are designed with practicality, accessibility, 
 # 🧲Lodestone PICO
  The PICO has the form factor of a USB-C stick. It is plug n' play on mobile and PC. It's not very powerful but makes up for it by being completely passive (no need to charge) and very practical for everyday use! Simple is better!
  
- [About the PICO, specs, DIY and FAQ](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-PICO)
+ [About the PICO, specs, DIY and FAQ](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/The-PICO)
 
 # 🌐Links
 
