@@ -13,7 +13,7 @@ Biomagnets are tiny magnetic implants that lay right under the skin. They can be
 Lodestones do exactly that! They are designed with practicality, accessibility, and expandability in mind. The goal is to promote and discover new and exciting uses for biomagnets by making the tools as simple and accessible as possible.
 
 # 💚Purchase and support
-The Lodestones were initially sold on my [Patreon](https://www.patreon.com/AxelFougues) but thanks to your support they will soon be up for sale on the official [Dangerous Things website](https://dangerousthings.com/)!!!
+The Lodestones were initially sold on my [Patreon](https://www.patreon.com/AxelFougues) but thanks to your support they are up for sale on the official [Dangerous Things website](https://dangerousthings.com/product/lodestone-pico/)!!!
 Be aware these are homemade with the support of the community so there might be delays in availability. But I'll make sure you get one!
 
 # 🧲Lodestone PICO
