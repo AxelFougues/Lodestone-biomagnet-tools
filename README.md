@@ -20,6 +20,6 @@ Check out the [catalog](https://github.com/AxelFougues/Lodestone-biomagnet-tools
 
 # 🌐Links
 
- The Lodestones were designed to be used in tandem with the ZINC app. It will provide advanced and experimental features to accompany the loadstones such as games, automated tests and more: [ZINC](https://play.google.com/store/apps/details?id=com.AzApps.ZINC&hl=en))
+ The Lodestones were designed to be used in tandem with the ZINC app. It will provide advanced and experimental features to accompany the loadstones such as games, automated tests and more: [ZINC](https://play.google.com/store/apps/details?id=com.AzApps.ZINC&hl=en)
 
  Early development thread: [Magnet fun for everyone](https://forum.dangerousthings.com/t/finger-magnet-fun-for-everyone/18642)
