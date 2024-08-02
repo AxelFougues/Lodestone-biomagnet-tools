@@ -16,7 +16,7 @@ Be aware these are homemade with the support of the community so there might be 
 
 # 🧲Devices and accessories
 
-Check out the [catalog]([https://dangerousthings.com/product/lodestone-pico/](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-and-accessories-catalog)) for specs, DIY and purchase information.
+Check out the [catalog](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-and-accessories-catalog) for specs, DIY and purchase information.
 
 # 🌐Links
 
