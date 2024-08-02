@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/AxelFougues/Lodestone-biomagnet-tools/blob/main/Logo/LodestoneWithNameAndBackground.png?raw=true)
 
-### 🛒 [Buy or build a LODESTONE]([https://dangerousthings.com/product/lodestone-pico/](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-and-accessories-catalog))
+### 🛒 [Buy or build a LODESTONE](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-and-accessories-catalog)
 ### 💚 [Support the project](https://www.patreon.com/AbyssWalkerDev)
 ### 📲 [Get ZINC the official app](https://play.google.com/store/apps/details?id=com.AzApps.ZINC)
 
