@@ -6,7 +6,7 @@
 ---
 
 ### 🛒 [Buy or build a LODESTONE](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-and-accessories-catalog)
-### 💚 [Support the project](https://www.patreon.com/AbyssWalkerDev)
+### 💚 [Support the project](https://www.patreon.com/axelfougues)
 ### 📲 [Get ZINC the official app](https://play.google.com/store/apps/details?id=com.AzApps.ZINC)
 
 ---
@@ -21,7 +21,7 @@ Lodestones do exactly that! They are designed with **practicality, accessibility
 Check out the [catalog](https://github.com/AxelFougues/Lodestone-biomagnet-tools/wiki/Lodestone-and-accessories-catalog) for specs, DIY and purchase information.
 
 # 💚Purchase and support
-You can buy Lodestones and accessories through a [Patreon](https://www.patreon.com/AxelFougues) tier or via Paypal. Thanks to your support my first product, the PICO is up for sale on the official [Dangerous Things website](https://dangerousthings.com/product/lodestone-pico/)!
+You can buy Lodestones and accessories through a [Patreon](https://www.patreon.com/axelfougues) tier or via Paypal. Thanks to your support my first product, the PICO is up for sale on the official [Dangerous Things website](https://dangerousthings.com/product/lodestone-pico/)!
 Be aware these are homemade with the support of the community so there might be delays in availability. But I'll make sure you get one!
 
 # 🌐Links
